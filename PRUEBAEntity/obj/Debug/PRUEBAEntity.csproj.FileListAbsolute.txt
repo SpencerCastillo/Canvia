@@ -1,0 +1,6 @@
+D:\Postulacion - Computo\PRUEBA\PRUEBA-API\PRUEBAEntity\bin\Debug\PRUEBAEntity.dll
+D:\Postulacion - Computo\PRUEBA\PRUEBA-API\PRUEBAEntity\bin\Debug\PRUEBAEntity.pdb
+D:\Postulacion - Computo\PRUEBA\PRUEBA-API\PRUEBAEntity\obj\Debug\PRUEBAEntity.csprojAssemblyReference.cache
+D:\Postulacion - Computo\PRUEBA\PRUEBA-API\PRUEBAEntity\obj\Debug\PRUEBAEntity.csproj.CoreCompileInputs.cache
+D:\Postulacion - Computo\PRUEBA\PRUEBA-API\PRUEBAEntity\obj\Debug\PRUEBAEntity.dll
+D:\Postulacion - Computo\PRUEBA\PRUEBA-API\PRUEBAEntity\obj\Debug\PRUEBAEntity.pdb
